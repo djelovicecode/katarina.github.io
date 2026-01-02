@@ -1060,7 +1060,7 @@ header {
 .logo {
   font-size: var(--font-size-3xl);
   font-weight: var(--font-weight-bold);
-  color: var(--color-cream-50);
+  color: var(--color-text);
   letter-spacing: var(--letter-spacing-tight);
 }
 
